@@ -1,6 +1,6 @@
-package com.github.wangyunico.bdbtm.services
+package com.bytedance.bdbtm.services
 
-import com.github.wangyunico.bdbtm.MyBundle
+import com.bytedance.bdbtm.MyBundle
 
 class MyApplicationService {
 

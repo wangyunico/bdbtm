@@ -1,4 +1,4 @@
-package com.github.wangyunico.bdbtm
+package com.bytedance.bdbtm
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

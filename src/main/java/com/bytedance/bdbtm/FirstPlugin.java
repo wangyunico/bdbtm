@@ -1,4 +1,4 @@
-package com.github.wangyunico.bdbtm;
+package com.bytedance.bdbtm;
 
 import com.google.protobuf.Message;
 import com.intellij.openapi.actionSystem.AnAction;
